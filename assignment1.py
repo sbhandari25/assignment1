@@ -142,4 +142,4 @@ if __name__ == "__main__":
     end_date_day_of_week = day_of_week(end_date_ddmmyyyy)
 
     print(f'The end date is {end_date_day_of_week}, {end_date_ddmmyyyy}.')
-
+    pass
